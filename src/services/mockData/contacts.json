@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "Id": 1,
+      "name": "Acme Corporation",
+      "type": "customer",
+      "email": "contact@acmecorp.com",
+      "phone": "+1-555-0101",
+      "totalTransactions": 25,
+      "totalAmount": 125000.00,
+      "status": "active"
+    },
+    {
+      "Id": 2,
+      "name": "Premium Services",
+      "type": "customer",
+      "email": "info@premiumservices.com",
+      "phone": "+1-555-0102",
+      "totalTransactions": 18,
+      "totalAmount": 89500.00,
+      "status": "active"
+    },
+    {
+      "Id": 3,
+      "name": "Global Supplies Inc",
+      "type": "supplier",
+      "email": "contact@globalsupplies.com",
+      "phone": "+1-555-0103",
+      "totalTransactions": 15,
+      "totalAmount": 45600.00,
+      "status": "active"
+    },
+    {
+      "Id": 4,
+      "name": "Digital Marketing Co",
+      "type": "customer",
+      "email": "hello@digitalmarketing.com",
+      "phone": "+1-555-0104",
+      "totalTransactions": 12,
+      "totalAmount": 67800.00,
+      "status": "active"
+    },
+    {
+      "Id": 5,
+      "name": "Office Depot",
+      "type": "supplier",
+      "email": "orders@officedepot.com",
+      "phone": "+1-555-0105",
+      "totalTransactions": 8,
+      "totalAmount": 12300.00,
+      "status": "active"
+    },
+    {
+      "Id": 6,
+      "name": "Tech Solutions Ltd",
+      "type": "customer",
+      "email": "support@techsolutions.com",
+      "phone": "+1-555-0106",
+      "totalTransactions": 22,
+      "totalAmount": 156000.00,
+      "status": "active"
+    },
+    {
+      "Id": 7,
+      "name": "Industrial Materials",
+      "type": "supplier",
+      "email": "sales@industrialmaterials.com",
+      "phone": "+1-555-0107",
+      "totalTransactions": 12,
+      "totalAmount": 78900.00,
+      "status": "active"
+    },
+    {
+      "Id": 8,
+      "name": "Software Solutions",
+      "type": "customer",
+      "email": "contact@softwaresolutions.com",
+      "phone": "+1-555-0108",
+      "totalTransactions": 9,
+      "totalAmount": 45200.00,
+      "status": "inactive"
+    }
+  ]
+}

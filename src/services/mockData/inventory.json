@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "Id": 1,
+      "sku": "LAPTOP-001",
+      "name": "Business Laptop",
+      "category": "Electronics",
+      "stock": 25,
+      "reorderLevel": 10,
+      "price": 899.99,
+      "status": "In Stock"
+    },
+    {
+      "Id": 2,
+      "sku": "DESK-001",
+      "name": "Office Desk",
+      "category": "Furniture",
+      "stock": 5,
+      "reorderLevel": 8,
+      "price": 299.99,
+      "status": "Low Stock"
+    },
+    {
+      "Id": 3,
+      "sku": "CHAIR-001",
+      "name": "Ergonomic Chair",
+      "category": "Furniture",
+      "stock": 0,
+      "reorderLevel": 5,
+      "price": 249.99,
+      "status": "Out of Stock"
+    },
+    {
+      "Id": 4,
+      "sku": "PRINT-001",
+      "name": "Laser Printer",
+      "category": "Electronics",
+      "stock": 12,
+      "reorderLevel": 3,
+      "price": 199.99,
+      "status": "In Stock"
+    },
+    {
+      "Id": 5,
+      "sku": "PAPER-001",
+      "name": "Copy Paper A4",
+      "category": "Supplies",
+      "stock": 100,
+      "reorderLevel": 50,
+      "price": 12.99,
+      "status": "In Stock"
+    }
+  ],
+  "warehouses": [
+    {
+      "Id": 1,
+      "name": "Main Warehouse",
+      "location": "New York, NY",
+      "capacity": "10,000 sq ft",
+      "utilization": "75%",
+      "manager": "John Smith",
+      "status": "active"
+    },
+    {
+      "Id": 2,
+      "name": "West Coast Depot",
+      "location": "Los Angeles, CA",
+      "capacity": "8,000 sq ft",
+      "utilization": "60%",
+      "manager": "Sarah Johnson",
+      "status": "active"
+    },
+    {
+      "Id": 3,
+      "name": "Regional Center",
+      "location": "Chicago, IL",
+      "capacity": "6,000 sq ft",
+      "utilization": "80%",
+      "manager": "Mike Davis",
+      "status": "active"
+    }
+  ],
+  "stores": [
+    {
+      "Id": 1,
+      "name": "Downtown Store",
+      "location": "Manhattan, NY",
+      "manager": "Alice Brown",
+      "itemsCount": 150,
+      "revenue": 85000.00,
+      "status": "active"
+    },
+    {
+      "Id": 2,
+      "name": "Mall Location",
+      "location": "Queens, NY",
+      "manager": "Bob Wilson",
+      "itemsCount": 120,
+      "revenue": 62000.00,
+      "status": "active"
+    },
+    {
+      "Id": 3,
+      "name": "Outlet Store",
+      "location": "Brooklyn, NY",
+      "manager": "Carol Martinez",
+      "itemsCount": 80,
+      "revenue": 35000.00,
+      "status": "maintenance"
+    }
+  ]
+}

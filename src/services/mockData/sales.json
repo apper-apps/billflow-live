@@ -1,0 +1,112 @@
+{
+  "invoices": [
+    {
+      "Id": 1,
+      "number": "INV-2024-001",
+      "contactName": "Acme Corporation",
+      "date": "2024-01-15",
+      "amount": 5250.00,
+      "status": "paid"
+    },
+    {
+      "Id": 2,
+      "number": "INV-2024-002",
+      "contactName": "Premium Services",
+      "date": "2024-01-12",
+      "amount": 2150.00,
+      "status": "overdue"
+    },
+    {
+      "Id": 3,
+      "number": "INV-2024-003",
+      "contactName": "Digital Marketing Co",
+      "date": "2024-01-10",
+      "amount": 3800.00,
+      "status": "sent"
+    },
+    {
+      "Id": 4,
+      "number": "INV-2024-004",
+      "contactName": "Software Solutions",
+      "date": "2024-01-08",
+      "amount": 7200.00,
+      "status": "paid"
+    },
+    {
+      "Id": 5,
+      "number": "INV-2024-005",
+      "contactName": "Creative Agency",
+      "date": "2024-01-05",
+      "amount": 4500.00,
+      "status": "draft"
+    }
+  ],
+  "orders": [
+    {
+      "Id": 1,
+      "number": "SO-2024-001",
+      "contactName": "Tech Innovations",
+      "date": "2024-01-16",
+      "amount": 12500.00,
+      "status": "pending"
+    },
+    {
+      "Id": 2,
+      "number": "SO-2024-002",
+      "contactName": "Global Enterprises",
+      "date": "2024-01-14",
+      "amount": 8900.00,
+      "status": "processing"
+    },
+    {
+      "Id": 3,
+      "number": "SO-2024-003",
+      "contactName": "Future Systems",
+      "date": "2024-01-12",
+      "amount": 15600.00,
+      "status": "completed"
+    },
+    {
+      "Id": 4,
+      "number": "SO-2024-004",
+      "contactName": "Smart Solutions",
+      "date": "2024-01-10",
+      "amount": 6700.00,
+      "status": "shipped"
+    }
+  ],
+  "quotes": [
+    {
+      "Id": 1,
+      "number": "QT-2024-001",
+      "contactName": "Tech Solutions Ltd",
+      "date": "2024-01-13",
+      "amount": 8900.00,
+      "status": "sent"
+    },
+    {
+      "Id": 2,
+      "number": "QT-2024-002",
+      "contactName": "Business Partners",
+      "date": "2024-01-11",
+      "amount": 12300.00,
+      "status": "accepted"
+    },
+    {
+      "Id": 3,
+      "number": "QT-2024-003",
+      "contactName": "Startup Hub",
+      "date": "2024-01-09",
+      "amount": 5600.00,
+      "status": "rejected"
+    },
+    {
+      "Id": 4,
+      "number": "QT-2024-004",
+      "contactName": "Enterprise Corp",
+      "date": "2024-01-07",
+      "amount": 18900.00,
+      "status": "draft"
+    }
+  ]
+}

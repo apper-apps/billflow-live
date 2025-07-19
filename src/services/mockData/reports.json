@@ -1,0 +1,42 @@
+{
+  "salesReports": [
+    {
+      "Id": 1,
+      "name": "Monthly Sales Summary",
+      "period": "January 2024",
+      "totalRevenue": 248500.00,
+      "totalOrders": 156,
+      "averageOrderValue": 1592.95
+    }
+  ],
+  "purchaseReports": [
+    {
+      "Id": 1,
+      "name": "Monthly Purchase Summary",
+      "period": "January 2024",
+      "totalPurchases": 156300.00,
+      "totalOrders": 87,
+      "averageOrderValue": 1796.55
+    }
+  ],
+  "inventoryReports": [
+    {
+      "Id": 1,
+      "name": "Inventory Valuation",
+      "date": "2024-01-15",
+      "totalValue": 456780.00,
+      "totalItems": 1250,
+      "lowStockItems": 23
+    }
+  ],
+  "financialReports": [
+    {
+      "Id": 1,
+      "name": "Profit & Loss",
+      "period": "January 2024",
+      "revenue": 248500.00,
+      "expenses": 156300.00,
+      "netProfit": 92200.00
+    }
+  ]
+}

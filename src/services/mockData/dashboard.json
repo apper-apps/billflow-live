@@ -1,0 +1,87 @@
+{
+  "stats": [
+    {
+      "title": "Total Revenue",
+      "value": "$248,500",
+      "subtitle": "This month",
+      "icon": "DollarSign",
+      "trend": "up",
+      "trendValue": "+12.5%",
+      "color": "blue"
+    },
+    {
+      "title": "Sales Orders",
+      "value": "156",
+      "subtitle": "Pending orders",
+      "icon": "ShoppingCart",
+      "trend": "up",
+      "trendValue": "+8.2%",
+      "color": "green"
+    },
+    {
+      "title": "Low Stock Items",
+      "value": "23",
+      "subtitle": "Need reorder",
+      "icon": "AlertTriangle",
+      "trend": "down",
+      "trendValue": "-3.1%",
+      "color": "orange"
+    },
+    {
+      "title": "Outstanding",
+      "value": "$34,800",
+      "subtitle": "Pending payments",
+      "icon": "Clock",
+      "trend": "up",
+      "trendValue": "+5.7%",
+      "color": "red"
+    }
+  ],
+  "recentTransactions": [
+    {
+      "Id": 1,
+      "type": "Invoice",
+      "number": "INV-2024-001",
+      "contactName": "Acme Corporation",
+      "date": "2024-01-15",
+      "amount": 5250.00,
+      "status": "paid"
+    },
+    {
+      "Id": 2,
+      "type": "Purchase Order",
+      "number": "PO-2024-001",
+      "contactName": "Global Supplies Inc",
+      "date": "2024-01-14",
+      "amount": 3200.00,
+      "status": "pending"
+    },
+    {
+      "Id": 3,
+      "type": "Quote",
+      "number": "QT-2024-001",
+      "contactName": "Tech Solutions Ltd",
+      "date": "2024-01-13",
+      "amount": 8900.00,
+      "status": "sent"
+    },
+    {
+      "Id": 4,
+      "type": "Invoice",
+      "number": "INV-2024-002",
+      "contactName": "Premium Services",
+      "date": "2024-01-12",
+      "amount": 2150.00,
+      "status": "overdue"
+    },
+    {
+      "Id": 5,
+      "type": "Purchase Order",
+      "number": "PO-2024-002",
+      "contactName": "Office Depot",
+      "date": "2024-01-11",
+      "amount": 890.00,
+      "status": "completed"
+    }
+  ]
+}
